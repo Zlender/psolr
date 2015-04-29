@@ -111,4 +111,4 @@ for more details on the API.
 ## Integrations
 
 * The [Acquia SDK for PHP](https://github.com/acquia/acquia-sdk-php)
-
+.
